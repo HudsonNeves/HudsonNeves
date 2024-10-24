@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá eu sou Hudson Neves 👋
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
@@ -16,6 +16,9 @@
 [![Blog](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
+
+
+![Hudson Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonNeves&show_icons=true&bg_color=00000000)
 <!--
 **HudsonNeves/HudsonNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,9 @@
 ## Olá eu sou Hudson Neves 👋
 
+Sou Hudson Neves, um desenvolvedor apaixonado por banco de dados e pelo desenvolvimento de aplicações web e mobile. Busco sempre me manter competitivo, entregando soluções robustas e escaláveis que integram tanto o front-end quanto o back-end.
+Tenho um forte conhecimento em Node.js, o que me permite construir APIs eficientes e trabalhar com sistemas distribuídos. Minha especialidade em banco de dados inclui MySQL, PostgreSQL, SQL Server e MongoDB, abrangendo desde a criação até a otimização e manutenção de bases de dados de alto desempenho. Estou sempre em busca de novos desafios, acompanhando as melhores práticas e inovações do mercado para aprimorar continuamente minhas habilidades e conhecimentos.
+
+
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/hudson-neves-93664ba4/)

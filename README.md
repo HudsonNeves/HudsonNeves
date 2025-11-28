@@ -8,6 +8,8 @@ Tenho sólida experiência com Node.js para desenvolvimento de APIs, além de fo
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
+[![React_Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 

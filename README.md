@@ -1,7 +1,10 @@
 ## Olá eu sou Hudson Neves
 
-Sou Hudson Neves, um desenvolvedor apaixonado por banco de dados e pelo desenvolvimento de aplicações web e mobile. Com foco em entregar soluções robustas e escaláveis, utilizo um conjunto diversificado de tecnologias para integrar o back-end com o front-end, sempre visando eficiência e uma excelente experiência de usuário.
-Tenho sólida experiência com Node.js para desenvolvimento de APIs, além de forte conhecimento em banco de dados, incluindo MySQL, PostgreSQL, SQL Server e MongoDB. No front-end, utilizo frameworks como Bootstrap para criar interfaces responsivas e otimizadas. Acredito fortemente nas metodologias ágeis, que aplico para garantir entregas rápidas, organizadas e alinhadas às expectativas dos clientes. Estou sempre buscando aprimorar minhas habilidades, acompanhando as inovações e melhores práticas do mercado para oferecer soluções de alta qualidade.
+Sou um desenvolvedor apaixonado por arquitetura de dados e pelo desenvolvimento de aplicações completas (Web e Mobile). Com foco em entregar soluções robustas e escaláveis, utilizo um ecossistema diversificado para integrar o back-end ao front-end, garantindo alta performance e uma experiência de usuário fluida.
+
+Minha expertise técnica inclui o desenvolvimento de APIs performáticas com Node.js, criação de interfaces modernas e responsivas com React e aplicações mobile nativas com React Native. Tenho sólida experiência na gestão de bancos de dados (SQL e NoSQL) e na infraestrutura de servidores em ambientes Linux. Atualmente, foco em arquiteturas de nuvem, utilizando AWS e Google Cloud para deploy e escalabilidade de aplicações.
+
+Acredito fortemente nas metodologias ágeis para garantir entregas rápidas e alinhadas às expectativas do negócio, buscando sempre as melhores práticas do mercado para oferecer soluções de alta qualidade.
 
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
@@ -23,8 +26,6 @@ Tenho sólida experiência com Node.js para desenvolvimento de APIs, além de fo
 [![Blog](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 [![Blog](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.linkedin.com/in/hudson-neves-93664ba4/)
 
-
-![Hudson Neves GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonNeves&show_icons=true&bg_color=00000000)
 <!--
 **HudsonNeves/HudsonNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
